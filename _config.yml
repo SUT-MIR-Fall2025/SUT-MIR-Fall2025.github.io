@@ -1,19 +1,19 @@
 # Site settings
-course_name: History of Magic
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Fall 1998"
+course_name: Modern Information Retrieval
+course_description: "Information retrieval is the process through which a computer system can respond to a user's query for text-based information on a specific topic. Information retrieval was one of the first and remains one of the most important problems in the domain of natural language processing. Web search is the application of information retrieval techniques to the largest corpus of text anywhere and it is the area in which most people interact with information retrieval systems most frequently. In this course, we will cover basic and advanced techniques for building text-based information systems, including efficient text indexing, Boolean and vector-space retrieval models, evaluation and interface, issues, information retrieval techniques for the web, including crawling, link-based algorithms, and metadata usage, document clustering and classification, traditional and machine learning-based ranking approaches, questiona and answering systems, and recommender systems."
+course_semester: "Fall 2025"
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://sut-mir-fall2025.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
-schoolurl: "https://hogwarts.edu"
-twitter_username: username 
+schoolname: "Sharif University of Technology"
+schoolurl: "https://www.sharif.ir/"
+#twitter_username: username 
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    School of Computer Engineering
+    SUT
+    Tehran - Iran
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
