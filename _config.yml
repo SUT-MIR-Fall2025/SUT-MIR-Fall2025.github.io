@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://sut-mir-fall2025.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Sharif University of Technology"
-schoolurl: "https://www.sharif.ir/"
+schoolurl: "https://www.sharif.ir"
 #twitter_username: username 
 
 address: |
