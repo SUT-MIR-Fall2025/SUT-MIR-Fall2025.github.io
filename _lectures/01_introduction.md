@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-10-10
+date: 2025-10-11
 title: Introduction
 tldr: "Short text to discribe what this lecture is about."
 thumbnail: /static_files/presentations/lec.jpg
