@@ -2,7 +2,7 @@
 type: lecture
 date: 2025-10-11
 title: Introduction
-tldr: ""
+tldr: "Introduction"
 links: 
     - url: https://sharif.edu/~beigy/courses/14032/40324/Lect-1.pdf
       name: slides
