@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-10-11
+date: 1404-07-19
 title: Introduction
 tldr: "Introduction"
 links: 
