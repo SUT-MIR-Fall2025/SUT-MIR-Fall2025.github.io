@@ -4,17 +4,9 @@ title: Materials
 permalink: /materials/
 ---
 
-{% include image.html url="/_images/cover2.jpg" width=175 align="right" %}
+## Required Texts
 
-## Book
+* [[MRS] Christopher D. Manning and Prabhakar Raghavan, and Hinrich Schutze, Introduction to Information Retrieval, Cambridge University Press, 2008.](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)
+* [[HNG] Hang Li, Learning to Rank for Information Retrieval and Natural Language Processing, Morgan & Claypool, 2011.](https://www.iro.umontreal.ca/~nie/IFT6255/Books/Learning-to-rank.pdf)
+* [[MC] Bhaskar Mitra and Nick Craswell, An Introduction to Neural Information Retrieval, Foundations and Trends in Information Retrieval, Vol. 13, No. 1, pp. 1-126, 2018.](https://www.nowpublishers.com/article/Details/INR-061)
 
-Alan Turing and Noam Chomsky: Very Famous Book
-
-## Additional Course Materials
-
-* If you are not familiar with Python programming, use any online tutorial to get a handle of it.
-* [Material #1](http://www.example.com/): how a computer chess player thinks!
-* [Material #2](http://www.example.com/): how a computer chess player thinks!
-* [Material #3](http://www.example.com/): how a computer chess player thinks!
-* [Material #4](http://www.example.com/): how a computer chess player thinks!
-* [Material #5](http://www.example.com/): how a computer chess player thinks!
