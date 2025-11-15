@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: Fall 2025
+date: 1404-08-25
 title: "IR New Slides"
 tldr: "IR New Slides (Lect1-11)"
 links: 
